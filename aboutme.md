@@ -20,7 +20,7 @@ text
 -bullets
 
 ## More clone trooper pics
-!(legopic)[imagewewant]
+![legopic](imagewewant)
 
 ## Embedded Video
 Paste embedded video code here
