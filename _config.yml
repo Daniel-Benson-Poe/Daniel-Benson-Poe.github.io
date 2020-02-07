@@ -20,7 +20,7 @@ description: A portfolio of computer science and data science projects
 
 # List of links in the navigation bar
 navbar-links:
-  Bio: "themind"
+  Bio: "aboutme"
   Resources:
     - my hometown newspaper: "washingtonpost.com"
     - Learn markdown: "http://www.markdowntutorial.com/"
