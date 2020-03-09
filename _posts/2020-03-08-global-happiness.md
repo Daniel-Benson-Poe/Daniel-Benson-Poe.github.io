@@ -6,6 +6,7 @@ title: Global Happiness
 ## Global Happiness: 
 ### A Look into How Different Countries Rank Their Happiness and What Contributes to Those Scores
 
+![happiness.width-800.jpg]({{site.baseurl}}/img/happiness.width-800.jpg)
 
 
 Happiness is a species wide phenomenon that can be highly subjective, based on cultural constructs all the way down to personal beliefs; at its core, however, happiness may be more predictable. In what is becoming an annual tradition, the United Nations releases their World Happiness Report in an attempt to raise global awareness of happiness and what may influence it. The data comes from the Gallup World Poll, where participants are asked to rate their overall happiness from 0, being the worst they could imagine feeling, to 10, being the happiest they can imagine. They are then asked to rate six different characteristics that they feel contribute to their happiness score. Those characteristics include: economy (GDP per capita), social/family support, overall health and life expectancy, freedom of choice, trust in their government or perceptions of governmental corruption, and the generosity they experience. 
