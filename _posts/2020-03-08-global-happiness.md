@@ -37,10 +37,12 @@ For each given year, from 2015-2019, there appears to be a strong positive corre
 
 ![scat1.png]({{site.baseurl}}/img/scat1.png)
 
+
 We can see this correlation clearly on a pair of maps as well, with the first map showing the greatest happiness scores in darker shades and the second map showing the greatest impact individuals feel their economy has on their happiness score also in darker shades. This tells us that the happiest countries tend to view their econmy/gdp per capita as one of the highest contributors to their happiness score.
 
 ![map2.png]({{site.baseurl}}/img/map2.png)
 ![map3.png]({{site.baseurl}}/img/map3.png)
+
 
 
 
