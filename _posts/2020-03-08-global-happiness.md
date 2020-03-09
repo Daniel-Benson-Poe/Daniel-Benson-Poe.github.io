@@ -37,7 +37,15 @@ For each given year, from 2015-2019, there appears to be a strong positive corre
 ![scat3.png]({{site.baseurl}}/img/scat3.png)
 
 
+![map2.png]({{site.baseurl}}/img/map2.png)
+![map3.png]({{site.baseurl}}/img/map3.png)
+![map4.png]({{site.baseurl}}/img/map4.png)
+![map5.png]({{site.baseurl}}/img/map5.png)
+
+
 
 ## Conclusion
 
 From this data we can conclude that at a global level the three most important factors contributing to overall happiness scores is that given country's economy or GDP per capita, the level in which individuals feel they receive social or family support, and that given country's overall health and life expectancy. This becomes even more apparent as we compare the happiness scores of the top ten happiest countries with the top ten countries in each of the six categories.
+
+
