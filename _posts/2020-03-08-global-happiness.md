@@ -14,11 +14,9 @@ I gathered the data published for the years 2015 to 2019 and formed a few base q
 
 According to the data, the five happiest countries by year were:
 
-![table1.png]({{site.baseurl}}/img/table1.png)
-![table2.png]({{site.baseurl}}/img/table2.png)
-![table3.png]({{site.baseurl}}/img/table3.png)
-![table4.png]({{site.baseurl}}/img/table4.png)
-![table5.png]({{site.baseurl}}/img/table5.png)
+![table11.png]({{site.baseurl}}/img/table11.png)
+
+
 
 
 
@@ -26,12 +24,15 @@ According to the data, the five happiest countries by year were:
 
 According to the data, the five unhappiest countriest by year were:
 
+![table10.png]({{site.baseurl}}/img/table10.png)
 
 
 
 ## Correlations With the Six Categories
 
 For each given year, from 2015-2019, there appears to be a strong positive correlation between the happiness score and a country's economy or GDP per capita; we can also see strong positive correlations between the happiness score and the social or family support available, as well as between the happiness score and a country's overall health and life expectancy, the second and third following my own hypotheses while the former showed more correlation than what was expected. We can see slight positive correlations between happiness score and both perceptions of freedom and government trust, as hypothesized. Lastly, when comparing the happiness score with a country's generosity, it appears to have little to no correlation at all; this went against my hypothesis that there would be a small positive correlation between the two. 
+
+
 
 ## Conclusion
 
