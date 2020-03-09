@@ -1,3 +1,8 @@
+---
+layout: post
+published: false
+title: Untitled
+---
 ## Global Happiness: 
 ### A Look into How Different Countries Rank Their Happiness and What Contributes to Those Scores
 
@@ -9,23 +14,20 @@ I gathered the data published for the years 2015 to 2019 and formed a few base q
 
 According to the data, the five happiest countries by year were:
 
-- 2015					- 2016					- 2017					- 2018				 - 2019
-1. Switzerland			1. Denmark				1. Norway				1. Finland			 1. Finland
-2. Iceland				2. Switzerland			2. Denmark				2. Norway			 2. Denmark
-3. Denmark				3. Iceland				3. Iceland				3. Denmark			 3. Norway
-4. Norway				4. Norway				4. Switzerland			4. Iceland			 4. Iceland
-5. Canada				5. Finland				5. Finland				5. Switzerland		 5. Netherlands
+![table1.png]({{site.baseurl}}/img/table1.png)
+![table2.png]({{site.baseurl}}/img/table2.png)
+![table3.png]({{site.baseurl}}/img/table3.png)
+![table4.png]({{site.baseurl}}/img/table4.png)
+![table5.png]({{site.baseurl}}/img/table5.png)
+
+
 
 ## Five Unhappiest Countries by Year
 
 According to the data, the five unhappiest countriest by year were:
 
-- 2015					                  - 2016					- 2017					- 2018				 - 2019
-1. Tanzania			                  1. Uganda				1. Yemen				1. Botswana			 1. Zimbabwe
-2. Madagascar			              	2. Yemen			2. South Sudan				2. Malawi			 2. Haiti
-3. Central African Republic				3. Madagascar				3. Liberia				3. Haiti			 3. Botswana
-4. Chad			                    	4. Tanzania				4. Guinea			4. Liberia			 4. Syria
-5. Guinea				                  5. Liberia				5. Togo				5. Syria		 5. Malawi
+
+
 
 ## Correlations With the Six Categories
 
