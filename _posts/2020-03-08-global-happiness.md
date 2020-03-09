@@ -61,8 +61,15 @@ Of note here is that most countries scored social/family support relatively equa
 ![map5.png]({{site.baseurl}}/img/map5.png)
 
 
-We can see slight positive correlations between happiness score and both perceptions of freedom and government trust, as hypothesized. Lastly, when comparing the happiness score with a country's generosity, it appears to have little to no correlation at all; this went against my hypothesis that there would be a small positive correlation between the two. 
+We can see slight positive correlations between happiness score and both perceptions of freedom and government trust, as hypothesized. 
 
+![scat4.png]({{site.baseurl}}/img/scat4.png)
+![scat5.png]({{site.baseurl}}/img/scat5.png)
+
+
+Lastly, when comparing the happiness score with a country's generosity, it appears to have little to no correlation at all; this went against my hypothesis that there would be a small positive correlation between the two. 
+
+![scat6.png]({{site.baseurl}}/img/scat6.png)
 
 
 
