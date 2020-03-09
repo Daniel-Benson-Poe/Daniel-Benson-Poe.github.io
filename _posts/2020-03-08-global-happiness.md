@@ -15,7 +15,7 @@ I gathered the data published for the years 2015 to 2019 and formed a few base q
 
 ## Ten Happiest Countries by Year
 
-According to the data, the five happiest countries by year were:
+According to the data, the ten happiest countries by year were:
 
 ![table11.png]({{site.baseurl}}/img/table11.png)
 
@@ -25,7 +25,7 @@ It's interesting to note the consistency found within the top ten happiest count
 
 ## Ten Unhappiest Countries by Year
 
-According to the data, the five unhappiest countriest by year were:
+According to the data, the ten unhappiest countriest by year were:
 
 ![table10.png]({{site.baseurl}}/img/table10.png)
 
