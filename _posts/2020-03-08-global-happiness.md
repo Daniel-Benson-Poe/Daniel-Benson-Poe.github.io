@@ -38,21 +38,25 @@ For each given year, from 2015-2019, there appears to be a strong positive corre
 ![scat1.png]({{site.baseurl}}/img/scat1.png)
 
 
-We can see this correlation clearly on a pair of maps as well, with the first map showing the greatest happiness scores in darker shades and the second map showing the greatest impact individuals feel their economy has on their happiness score also in darker shades. This tells us that the happiest countries tend to view their econmy/gdp per capita as one of the highest contributors to their happiness score.
+We can see this correlation clearly on a pair of maps as well, with the first map showing the greatest happiness scores in darker shades and the second map showing the greatest impact individuals feel their economy has on their happiness score also in darker shades. This tells us that the happiest countries tend to view their econmy/gdp per capita as one of the highest contributors to their happiness score, .
 
 ![map2.png]({{site.baseurl}}/img/map2.png)
 ![map3.png]({{site.baseurl}}/img/map3.png)
 
 
 
-
-We can also see strong positive correlations between the happiness score and the social or family support available, as well as between the happiness score and a country's overall health and life expectancy, the second and third following my own hypotheses while the former showed more correlation than what was expected. 
+We also see a strong positive correlation between the happiness score and the social or family support available:
 
 ![scat2.png]({{site.baseurl}}/img/scat2.png)
+
+
+as well as between the happiness score and a country's overall health and life expectancy:
+
 ![scat3.png]({{site.baseurl}}/img/scat3.png)
 
 
-Of note here is that most countries scored social/family support relatively equally as a contributing factor to their happiness globally; this tells us that for many countries, the level of social and family support that they receive is perceived very similarly world wide.
+Of note here is that most countries scored social/family support relatively equally as a contributing factor to their happiness globally; this tells us that for many countries, the level and importance of social and family support that they receive is perceived very similarly world wide, and may not necessarily be an indicator of higher happiness scores.
+
 ![map2.png]({{site.baseurl}}/img/map2.png)
 ![map4.png]({{site.baseurl}}/img/map4.png)
 
@@ -61,24 +65,8 @@ Of note here is that most countries scored social/family support relatively equa
 ![map5.png]({{site.baseurl}}/img/map5.png)
 
 
-We can see slight positive correlations between happiness score and both perceptions of freedom and government trust, as hypothesized. 
-
-![scat4.png]({{site.baseurl}}/img/scat4.png)
-![scat5.png]({{site.baseurl}}/img/scat5.png)
-
-
-Lastly, when comparing the happiness score with a country's generosity, it appears to have little to no correlation at all; this went against my hypothesis that there would be a small positive correlation between the two. 
-
-![scat6.png]({{site.baseurl}}/img/scat6.png)
-
-
-
-
-
-
-
-
+I also found slight positive correlations between happiness score and both perceptions of freedom and government trust, as hypothesized. Lastly, when comparing the happiness score with a country's generosity, it appears to have little to no correlation at all; this went against my hypothesis that there would be a small positive correlation between the two. 
 
 ## Conclusion
 
-From this data we can conclude that at a global level the three most important factors contributing to overall happiness scores is that given country's economy or GDP per capita, the level in which individuals feel they receive social or family support, and that given country's overall health and life expectancy. This becomes even more apparent as we compare the happiness scores of the top ten happiest countries with the top ten countries in each of the six categories.
+From this data we can conclude that at a global level the the happiest countries tend to attribute that given country's economy or GDP per capita, the level in which individuals feel they receive social or family support, and that given country's overall health and life expectancy as the three most important factors contributing to overall happiness scores. This becomes even more apparent as we compare the happiness scores of the top ten happiest countries with the top ten countries in each of the six categories. Further research could include gathering and describing the actual levels of each category by country to determine actual impact.
