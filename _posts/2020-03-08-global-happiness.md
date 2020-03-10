@@ -67,6 +67,7 @@ And lastly we see a strong positive correlation between the happiness score and 
 
 
 
+
 I also found slight positive correlations between happiness score and both perceptions of freedom and government trust, as hypothesized. Lastly, when comparing the happiness score with a country's generosity, it appears to have little to no correlation at all; this went against my hypothesis that there would be a small positive correlation between the two. 
 
 ## Conclusion
