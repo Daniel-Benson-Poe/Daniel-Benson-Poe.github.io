@@ -41,6 +41,7 @@ For each given year, from 2015-2019, there appears to be a strong positive corre
 We can see this correlation clearly on a pair of maps as well, with the first map showing the greatest happiness scores in darker shades and the second map showing the greatest impact individuals feel their economy has on their happiness score also in darker shades. This tells us that the happiest countries tend to view their econmy/gdp per capita as one of the highest contributors to their happiness score, .
 
 ![map2.png]({{site.baseurl}}/img/map2.png)
+
 ![map3.png]({{site.baseurl}}/img/map3.png)
 
 
@@ -52,6 +53,7 @@ We also see a strong positive correlation between the happiness score and the so
 Of note here is that most countries scored social/family support relatively equally as a contributing factor to their happiness globally; this tells us that for many countries, the level and importance of social and family support that they receive is perceived very similarly world wide, and may not necessarily be an indicator of higher happiness scores.
 
 ![map2.png]({{site.baseurl}}/img/map2.png)
+
 ![map4.png]({{site.baseurl}}/img/map4.png)
 
 And lastly we see a strong positive correlation between the happiness score and a country's overall health and life expectancy:
@@ -59,6 +61,7 @@ And lastly we see a strong positive correlation between the happiness score and 
 ![scat3.png]({{site.baseurl}}/img/scat3.png)
 
 ![map2.png]({{site.baseurl}}/img/map2.png)
+
 ![map5.png]({{site.baseurl}}/img/map5.png)
 
 
