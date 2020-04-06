@@ -1,12 +1,10 @@
 # --- General options --- #
 
----
 # Name of website
 title: My Data Portfolio
 
 # Short description of your site
 description: A portfolio of computer science and data science projects
----
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -52,8 +50,8 @@ footer-link-col: "#3696CE"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
- navbar-img: "/Users/Daniel/Desktop/Lambda/Career_Help/port_head_and_foot.jpg"
- footer-img: "/Users/Daniel/Desktop/Lambda/Career_Help/port_head_and_foot.jpg"
+navbar-img: "/Users/Daniel/Desktop/Lambda/Career_Help/port_head_and_foot.jpg"
+footer-img: "/Users/Daniel/Desktop/Lambda/Career_Help/port_head_and_foot.jpg"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
